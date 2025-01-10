@@ -1,6 +1,11 @@
 # Relevant tools, techniques and frameworks
-
-
+- CML (Continuous Machine Learning)
+- CI (Continuous Integration)
+- Pandas
+- scikit-learn
+- Matplotlib
+- Numpy
+  
 # What I learned
 - How to set up continuous integration for ML on Github
 
